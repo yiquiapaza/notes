@@ -4,13 +4,13 @@
     "type": "split",
     "children": [
       {
-        "id": "294b6af512c4dfa0",
+        "id": "13962a699568d214",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Disign de Interacao/Capitulo 0.md",
-            "mode": "source"
+            "file": "Notes of Data Sciences/1 - Introduction.md",
+            "mode": "preview"
           }
         }
       }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disign de Interacao/Capitulo 0.md",
+                "file": "Notes of Data Sciences/1 - Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,17 +86,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "294b6af512c4dfa0",
+  "active": "13962a699568d214",
   "lastOpenFiles": [
+    "Notes of Data Sciences/1 - Introduction.md",
+    "Notes of Data Sciences/0 - Content.md",
+    "3D User Interfaces Theory and Practice/Untitled.md",
     "Disign de Interacao/Capitulo 0.md",
     "Disign de Interacao/Capitulo 2.md",
-    "Algorithms and Data Structure/Untitled.md",
-    "Disign de Interacao/Untitled.md",
-    "3D User Interfaces Theory and Practice/Untitled.md",
-    "Notes of Data Sciences/Untitled 1.md",
-    "Notes of Data Sciences/Untitled.md",
-    "Untitled.md",
-    "Notes of Data Sciences/2 - Data/2 - Data.md",
-    "Notes of Data Sciences/2 - Data.md"
+    "Notes of Data Sciences/2 - Data.md",
+    "Notes of Data Sciences/3 - Machine Learning.md",
+    "Disign de Interacao/Capitulo 3.md",
+    "Disign de Interacao/Capitulo 1.md",
+    "obsidian.css.md"
   ]
 }
