@@ -68,7 +68,9 @@ A usabilidade é dividia nas siguintes metas:
 
 Muitos desses aspectos são  qualidades subjetivas e procuram saber como un sistema é sentido por um usuário. Elas são mais em que querem saber como os usuários experimentam um produto interativo.
 
-|Aspectos desejáveis|||
+**Aspectos desejáveis:**
+
+|	|	|	|
 |---|---|---|
 |Satisfatório|Prestativo|Divertido(fun)|
 |Agradável|Motivador|Surpreendente|
@@ -76,8 +78,10 @@ Muitos desses aspectos são  qualidades subjetivas e procuram saber como un sist
 |Emocionante/excitante|Apoia a criatividade|Recompensador|
 |Interessante(entertaining)|Cognitivamente estimulante|
 
-|Aspectos indesajáveis||
-|---|---|---|
+**Aspectos indesajáveis:**
+
+|	|	|
+|---|---|
 |Tedioso|Desprazero|
 |Frustante|Condescendente(patronizing)|
 |Faz com que alguém se sinta culpado|Faz com que alguém se sienta estúpido|
