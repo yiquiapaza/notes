@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Disign de Interacao/Capitulo 2.md",
+            "file": "Typescripts/0- Introduction.md",
             "mode": "source"
           }
         }
@@ -68,7 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Disign de Interacao/Capitulo 2.md",
+                "file": "Typescripts/0- Introduction.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -88,15 +88,15 @@
   },
   "active": "13962a699568d214",
   "lastOpenFiles": [
-    "Disign de Interacao/Capitulo 2.md",
-    "Disign de Interacao/Capitulo 3.md",
-    "Disign de Interacao/Capitulo 0.md",
-    "Disign de Interacao/Capitulo 1.md",
-    "Notes of Data Sciences/4 - Business Intelligence.md",
-    "Notes of Data Sciences/3 - Machine Learning.md",
-    "Notes of Data Sciences/2.1 - Traditional Methods.md",
-    "Notes of Data Sciences/2 - Data.md",
+    "Typescripts/0- Introduction.md",
+    "Typescripts/Untitled.md",
+    "Cascading Styled Sheet/1.md",
+    "Notes of Data Sciences/0 - Content.md",
     "Notes of Data Sciences/1 - Introduction.md",
-    "Notes of Data Sciences/0 - Content.md"
+    "Notes of Data Sciences/2 - Data.md",
+    "Notes of Data Sciences/2.1 - Traditional Methods.md",
+    "Notes of Data Sciences/3 - Machine Learning.md",
+    "Notes of Data Sciences/4 - Business Intelligence.md",
+    "Disign de Interacao/Capitulo 0.md"
   ]
 }
